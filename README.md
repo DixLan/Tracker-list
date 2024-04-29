@@ -7,6 +7,7 @@ Link Liste :
 
 Everything : https://raw.githubusercontent.com/DixLan/Tracker-list/master/host/everything.txt
 
-one by one :
+Separated by space :
 
-https://raw.githubusercontent.com/DixLan/Tracker-list/master/host/akami.net_adlist.txt https://raw.githubusercontent.com/DixLan/Tracker-list/master/host/googleusercontent.com_adlist.txt
+https://raw.githubusercontent.com/DixLan/Tracker-list/master/host/akami.net_adlist.txt https://raw.githubusercontent.com/DixLan/Tracker-list/master/host/googleusercontent.com_adlist.txt https://raw.githubusercontent.com/DixLan/Tracker-list/master/host/e-msedge.net_adlist.txt https://raw.githubusercontent.com/DixLan/Tracker-list/master/host/akamaiedge.net_adlist.txt https://raw.githubusercontent.com/DixLan/Tracker-list/master/host/amazonaws.com_adlist.txt https://raw.githubusercontent.com/DixLan/Tracker-list/master/host/amazontrust.com_adlist.txt
+
