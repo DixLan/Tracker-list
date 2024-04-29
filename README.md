@@ -9,4 +9,4 @@ Everything : https://raw.githubusercontent.com/DixLan/Tracker-list/master/host/e
 
 one by one :
 
-https://raw.githubusercontent.com/DixLan/Tracker-list/master/host/akami.net_adlist.txt, https://raw.githubusercontent.com/DixLan/Tracker-list/master/host/googleusercontent.com_adlist.txt
+https://raw.githubusercontent.com/DixLan/Tracker-list/master/host/akami.net_adlist.txt https://raw.githubusercontent.com/DixLan/Tracker-list/master/host/googleusercontent.com_adlist.txt
